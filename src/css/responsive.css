@@ -7,4 +7,13 @@
     .container .card{
         margin: 0 auto 0;
     }
+
+    .container .informacoes{
+        text-align: center;
+        margin: 0 auto 0;
+    }
+
+    .container .informacoes .paragrafo{
+        margin: 0 auto 0;
+    }
 }
